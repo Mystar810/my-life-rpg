@@ -1,0 +1,10 @@
+{
+  "name": "My Life RPG · 人生冒险日志",
+  "short_name": "My Life RPG",
+  "description": "把现实任务变成一场可成长的冒险",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "icons": []
+}
